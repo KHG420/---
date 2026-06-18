@@ -1,0 +1,14 @@
+{
+  "data_dir": "../data/COVID-19_Radiography_Dataset",
+  "output_dir": "./checkpoints",
+  "epochs": 60,
+  "batch_size": 16,
+  "lr": 0.0001,
+  "weight_decay": 0.0001,
+  "input_size": 224,
+  "num_workers": 0,
+  "patience": 10,
+  "freeze_epochs": 5,
+  "seed": 42,
+  "label_smoothing": 0.1
+}
