@@ -29,6 +29,8 @@ ENV/
 .idea/
 *.swp
 *.swo
+*.codegraph
+*.reasonix
 
 # 模型文件
 *.h5
